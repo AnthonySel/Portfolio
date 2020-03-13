@@ -2829,12 +2829,6 @@ small {
   font-size: 60%;
 }
 
-.projet {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 a {
   color: #378C3F;
 }
@@ -2883,6 +2877,7 @@ h5, .h5 {
   font-size: 1.57em;
   line-height: 1.4em;
   margin-bottom: 15px;
+  text-decoration: underline;
 }
 
 h6, .h6 {
