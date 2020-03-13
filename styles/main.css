@@ -2829,6 +2829,12 @@ small {
   font-size: 60%;
 }
 
+.projet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 a {
   color: #378C3F;
 }
